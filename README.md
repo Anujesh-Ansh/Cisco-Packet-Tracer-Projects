@@ -1,4 +1,4 @@
-# Cisco-Packet-Tracer Projects 🌐✨
+# PacketPalooza 🌐✨
 
 Welcome to an exciting journey through the realm of Cisco Packet Tracer Projects! 🚀 Explore a diverse collection of hands-on projects that bring networking concepts to life in a dynamic and engaging way. Whether you're a networking enthusiast or a curious learner, these projects are designed to spark your creativity and enhance your skills.
 
